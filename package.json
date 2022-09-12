@@ -1,0 +1,11 @@
+{
+  "name": "shares-game",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./src/index.ts"
+  },
+  "dependencies": {
+    "typescript": "^4.8.3"
+  }
+}
